@@ -115,3 +115,12 @@ Potential extensions include:
 ---
 
 ## Repository Structure
+notebooks/ → Data preparation, analysis, and modelling
+data/ → Dataset description or external data references
+results/ → Figures and visual outputs
+
+---
+
+## Author
+Vansh Singh
+
